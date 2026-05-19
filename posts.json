@@ -8009,6 +8009,50 @@
     ],
     "IranintlTV": [
       {
+        "id": 338017,
+        "text": "ترامپ در یک سخنرانی در کاخ سفید گفت: «ما جنگ ایران را خیلی سریع پایان خواهیم داد. آنها به شدت می‌خواهند توافق کنند. از این وضعیت خسته شده‌اند. این موضوع باید ۴۷ سال پیش حل می‌شد. کسی باید درباره آن کاری انجام می‌داد، و این اتفاق خواهد افتاد و سریع هم رخ خواهد داد.»\nاو افزود: «خواهید دید که قیمت نفت سقوط خواهد کرد. قیمت‌ها پایین خواهد آمد. نفت بسیار زیادی در بازار وجود دارد. قیمت‌ها به شدت کاهش خواهد یافت.»\nhttps://iranintl.com/202605193673",
+        "date": "2026-05-19T23:43:22+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_338017_0_9950268b.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_338017_1_72daf729.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202605193673",
+            "type": "external",
+            "display_text": "https://iranintl.com/202605193673"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/338017"
+      },
+      {
+        "id": 338016,
+        "text": "شورای امنیت سازمان ملل به درخواست بحرین نشست اضطراری برگزار کرد تا حمله به نیروگاه هسته‌ای براکه در امارات متحده عربی را بررسی کند.\nمریم رحمتی، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
+        "date": "2026-05-19T22:48:28+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_338016_0_9950268b.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_338016_1_77e0e297.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/338016"
+      },
+      {
         "id": 338015,
         "text": "🎧\nنسخه صوتی سیاست با مراد ویسی: احتمال ابربحران بنزین و برق\n@iranintlTV",
         "date": "2026-05-19T22:11:49+00:00",
@@ -10011,46 +10055,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/337907"
-      },
-      {
-        "id": 337906,
-        "text": "در ادامه لفاظی‌های تهدیدآمیز مقام‌های حکومت، محمد اکرمی‌نیا، سخنگوی ارتش جمهوری اسلامی، گفت در صورت حمله مجدد دشمن، «با ابزارها و شیوه‌های جدید، جبهه‌های جدیدی را علیه آنها خواهیم گشود».\nاو اضافه کرد: «جمهوری اسلامی محاصره‌پذیر و قابل شکست نیست.»\nhttps://iranintl.com/202605192299",
-        "date": "2026-05-19T10:15:52+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_337906_0_9950268b.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_337906_1_d9497cc8.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202605192299",
-            "type": "external",
-            "display_text": "https://iranintl.com/202605192299"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/337906"
-      },
-      {
-        "id": 337905,
-        "text": "شرکت آلکاتل اعلام کرد تعمیر کابل‌های اینترنت زیردریایی در خلیج فارس را به‌دلیل ناامنی و تهدیدهای سپاه پاسداران متوقف کرده‌ است. این شرکت تاکید کرد سپاه از اپراتورهای خارجی خواسته برای نگه‌داری این زیرساخت‌ها به جمهوری اسلامی هزینه حفاظت بپردازند.\nگفت‌وگو با علی‌حسین قاضی‌زاده، عضو تحریریه ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-05-19T10:14:38+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_337905_0_9950268b.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/337905"
       }
     ],
     "tavaanatech": [
@@ -16174,23 +16178,23 @@
       }
     ]
   },
-  "last_update": "2026-05-19T22:44:04.881485+00:00",
+  "last_update": "2026-05-19T23:59:48.427898+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 918,
-    "total_media": 1154,
-    "total_files": 1154,
+    "total_media": 1155,
+    "total_files": 1155,
     "total_links": 262,
     "files_by_type": {
       "image": 1092,
       "file": 5,
-      "video": 55,
+      "video": 56,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1154,
-    "existing_media_files": 1153,
-    "total_size_mb": 262.54,
-    "last_calculation": "2026-05-19T22:44:04.894990+00:00"
+    "referenced_files": 1155,
+    "existing_media_files": 1154,
+    "total_size_mb": 265.01,
+    "last_calculation": "2026-05-19T23:59:48.441473+00:00"
   }
 }
