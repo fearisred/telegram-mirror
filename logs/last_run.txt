@@ -1,7 +1,7 @@
-Last run: 2026-05-25 19:14:26 UTC
-Workflow: 26415997192
+Last run: 2026-05-25 20:24:40 UTC
+Workflow: 26418357743
 Repository: fearisred/telegram-mirror
 Validation: success
 Mirror success: true
-Media files: 1153
-Media size: 246M
+Media files: 1151
+Media size: 240M
