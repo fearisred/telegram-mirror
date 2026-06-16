@@ -8009,6 +8009,31 @@
     ],
     "IranintlTV": [
       {
+        "id": 342692,
+        "text": "غلامحسین محسنی‌اژه‌ای، رییس قوه قضاییه در نشست هیات عمومی دیوان عالی کشور، درباره تفاهم تهران و واشینگتن گفت: «مذاکره‌کنندگان جمهوری اسلامی ذره‌ای از حقوق محور مقاومت در لبنان، فلسطین، یمن و سایر ساحات و خونخواهی کشته‌شدگان، از جمله علی خامنه‌ای، کوتاه نخواهند آمد.»\nرییس قوه قضاییه گفت اگر «دشمن» در روند مذاکرات بدعهدی کند، جمهوری اسلامی به «مقابله و جهاد» خود در «میدان» ادامه خواهد داد.\nاو افزود: «به این دشمن بدعهد، نابکار و جنایتکار به هیچ وجه نمی‌توان اعتماد کرد و دشمن می‌داند با چه کسانی طرف است.»\nاژه‌ای درباره تفاهم تهران و واشینگتن گفت: «اگر چیزی امضا شود و دشمن عهدشکنی کند، جمهوری اسلامی مقابله‌به‌مثل خواهد کرد و در برابر عهدشکنی طرف مقابل، کاری که باید انجام دهد را انجام می‌دهد.»\nhttps://iranintl.com/202606169991",
+        "date": "2026-06-16T11:03:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_342692_0_69dcdea5.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_342692_1_ec232df5.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202606169991",
+            "type": "external",
+            "display_text": "https://iranintl.com/202606169991"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/342692"
+      },
+      {
         "id": 342691,
         "text": "سرخط خبرهای سه‌شنبه ۲۶ خرداد\n@iranintltv",
         "date": "2026-06-16T10:40:07+00:00",
@@ -10112,21 +10137,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/342564"
-      },
-      {
-        "id": 342563,
-        "text": "🎧\nنسخه صوتی تیتراول با نیوشا صارمی: امضا ترامپ و قالیباف پای تفاهم‌نامه؛ ترامپ: شاید در مراسم ژنو حاضر باشم\n@iranintlTV",
-        "date": "2026-06-15T18:36:50+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_342563_0_b7b93d8c.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/342563"
       }
     ],
     "tavaanatech": [
@@ -16250,23 +16260,23 @@
       }
     ]
   },
-  "last_update": "2026-06-16T10:52:45.188450+00:00",
+  "last_update": "2026-06-16T11:03:54.675614+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 918,
-    "total_media": 1176,
-    "total_files": 1176,
-    "total_links": 260,
+    "total_media": 1177,
+    "total_files": 1177,
+    "total_links": 261,
     "files_by_type": {
-      "image": 1116,
+      "image": 1117,
       "file": 5,
       "video": 53,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1176,
-    "existing_media_files": 1175,
-    "total_size_mb": 252.47,
-    "last_calculation": "2026-06-16T10:52:45.202418+00:00"
+    "referenced_files": 1177,
+    "existing_media_files": 1176,
+    "total_size_mb": 252.54,
+    "last_calculation": "2026-06-16T11:03:54.689783+00:00"
   }
 }
