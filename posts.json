@@ -8009,6 +8009,25 @@
     ],
     "IranintlTV": [
       {
+        "id": 343434,
+        "text": "کاخ سفید در حال بررسی محدودیت‌های سفر تیم ملی فوتبال ایران به آمریکا برای جام جهانی است. همزمان گزارش شده تیم ایران برای بازی سوم مرحله گروهی تنها یک روز پیش از مسابقه وارد آمریکا می‌شود و باید بلافاصله پس از پایان بازی این کشور را ترک کند. فدراسیون فوتبال ایران نیز با اعتراض به این محدودیت‌ها، از صادر نشدن ویزا برای ۱۱ عضو مدیریتی و اجرایی کاروان تیم ملی خبر داده است.\nگزارش رضا محدث، خبرنگار ایران‌اینترنشنال\n@iranintltv",
+        "date": "2026-06-20T19:09:13+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_343434_0_7db84027.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_343434_1_2ca50e98.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/343434"
+      },
+      {
         "id": 343433,
         "text": "🔻\nتیم ملی فوتبال هلند در هفته دوم مرحله گروهی جام جهانی با نتیجه پنج بر یک برابر سوئد پیروز شد و با چهار امتیاز در صدر جدول گروه F قرار گرفت. برایان بروبی و کودی خاکپو هر کدام دو بار و کریسنسیو سامرویل یک گل برای شاگردان کومان به ثمر رساندند.\n@iranintltvsport",
         "date": "2026-06-20T19:05:15+00:00",
@@ -10110,31 +10129,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/IranintlTV/343314"
-      },
-      {
-        "id": 343313,
-        "text": "🔻\nتیم‌های فوتبال ایران و بلژیک در دومین بازی خود در جام جهانی ۲۰۲۶، یکشنبه ۳۱ خرداد ۱۴۰۵ در استادیوم سوفای لس‌آنجلس به مصاف یکدیگر می‌روند، به نظر شما این بازی با چه نتیجه‌ای به پایان می‌رسد؟\n🔹\nبرای شرکت در این نظرسنجی، به صفحه اینستاگرام ایران اینترنشنال ورزشی مراجعه کنید؛\n👇\nhttps://www.instagram.com/p/DZyOXITghRy/\n@iranintltvsport",
-        "date": "2026-06-20T04:03:58+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_343313_0_7db84027.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_343313_1_936d9187.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://www.instagram.com/p/DZyOXITghRy/",
-            "type": "instagram",
-            "display_text": "https://www.instagram.com/p/DZyOXITghRy/"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/343313"
       }
     ],
     "tavaanatech": [
@@ -16258,23 +16252,23 @@
       }
     ]
   },
-  "last_update": "2026-06-20T19:08:46.166845+00:00",
+  "last_update": "2026-06-20T19:19:10.232645+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 918,
     "total_media": 1175,
     "total_files": 1175,
-    "total_links": 262,
+    "total_links": 261,
     "files_by_type": {
-      "image": 1106,
+      "image": 1105,
       "file": 5,
-      "video": 62,
+      "video": 63,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1175,
     "existing_media_files": 1174,
-    "total_size_mb": 297.57,
-    "last_calculation": "2026-06-20T19:08:46.180638+00:00"
+    "total_size_mb": 299.88,
+    "last_calculation": "2026-06-20T19:19:10.246485+00:00"
   }
 }
