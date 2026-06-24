@@ -8009,6 +8009,31 @@
     ],
     "IranintlTV": [
       {
+        "id": 344194,
+        "text": "رهبر حکومت را دادند، سویا و ذرت آمریکایی گرفتند!\nچشم‌انداز با مهدی مهدوی‌آزاد\nنسخه کامل این برنامه در یوتیوب:\nhttps://youtu.be/I_ERs3_GooQ\n@iranintltv",
+        "date": "2026-06-24T19:28:55+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_344194_0_88a462d2.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_344194_1_4a5b91e2.mp4"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://youtu.be/I_ERs3_GooQ",
+            "type": "youtube",
+            "display_text": "https://youtu.be/I_ERs3_GooQ"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/344194"
+      },
+      {
         "id": 344193,
         "text": "به گزارش سی‌بی‌اس، قانون‌گذاران جمهوری‌خواه مجلس نمایندگان آمریکا چهارشنبه نگرانی‌هایی را درباره یادداشت تفاهم دولت ترامپ با ایران مطرح کردند؛ به‌ویژه در زمینه کاهش تحریم‌ها، آزادسازی دارایی‌ها، بازرسی‌های هسته‌ای و هزینه‌های احتمالی اجرای این توافق.\nبر اساس این گزارش، با این حال، بسیاری از آن‌ها همچنان از اقدام نظامی رییس‌جمهور علیه جمهوری اسلامی حمایت می‌کنند.\nhttps://iranintl.com/202606247762",
         "date": "2026-06-24T19:25:31+00:00",
@@ -10102,25 +10127,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/344065"
-      },
-      {
-        "id": 344064,
-        "text": "مدیر کل آژانس بین‌المللی انرژی اتمی گفت آژانس درباره محل احتمالی اورانیوم با غنای بالا اطلاعاتی در اختیار دارد، اما ضروری است جمهوری اسلامی به‌طور رسمی محل نگهداری آن را اعلام کند.\nگفت‌وگو با اردوان روزبه، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-06-24T05:39:14+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_344064_0_88a462d2.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_344064_1_5053a763.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/344064"
       }
     ],
     "tavaanatech": [
@@ -16244,13 +16250,13 @@
       }
     ]
   },
-  "last_update": "2026-06-24T19:27:00.327690+00:00",
+  "last_update": "2026-06-24T19:32:22.859286+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 918,
     "total_media": 1176,
     "total_files": 1176,
-    "total_links": 259,
+    "total_links": 260,
     "files_by_type": {
       "image": 1118,
       "file": 5,
@@ -16260,7 +16266,7 @@
     },
     "referenced_files": 1176,
     "existing_media_files": 1175,
-    "total_size_mb": 245.97,
-    "last_calculation": "2026-06-24T19:27:00.342125+00:00"
+    "total_size_mb": 247.93,
+    "last_calculation": "2026-06-24T19:32:22.873084+00:00"
   }
 }
