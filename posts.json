@@ -8009,6 +8009,31 @@
     ],
     "IranintlTV": [
       {
+        "id": 344795,
+        "text": "علی‌اکبر ولایتی، مشاور رهبر جمهوری اسلامی، در شبکه ایکس نوشت که پس از سال‌ها تجربه در عرصه دیپلماسی به این نتیجه رسیده است که «آزادی بدون استقلال سیاسی، قفس طلایی است.»\nاو افزود: «حزب‌الله ستون خیمه و حافظ حقیقی موجودیت و استقلال لبنان است.»\nhttps://iranintl.com/202606286535",
+        "date": "2026-06-28T13:18:02+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_344795_0_028b35fc.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_344795_1_d70ef05e.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202606286535",
+            "type": "external",
+            "display_text": "https://iranintl.com/202606286535"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/344795"
+      },
+      {
         "id": 344794,
         "text": "حذف تیم فوتبال ایران از جام جهانی با موج گسترده‌ای از واکنش‌ها در رسانه‌های اجتماعی همراه شد. برخی کاربران با اشاره به مواضع و عملکرد گذشته شماری از بازیکنان، از حذف این تیم استقبال کردند.\nعادله بورنگ، عضو تحریریه ایران‌اینترنشنال، گزارش می‌دهد\n@iranintltv",
         "date": "2026-06-28T13:12:34+00:00",
@@ -10174,25 +10199,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/344671"
-      },
-      {
-        "id": 344670,
-        "text": "سازمان امنیت دریایی بریتانیا اعلام کرد یک نفت‌کش در تنگه هرمز بر اثر اصابت پرتابه آسیب دیده و به اتاق فرمان آن خسارت وارد شده است.\nجزییات بیشتر در گفت‌وگو با اردوان روزبه، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-06-27T19:09:44+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_344670_0_d73ea638.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_344670_1_337c6fc5.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/344670"
       }
     ],
     "tavaanatech": [
@@ -16316,23 +16322,23 @@
       }
     ]
   },
-  "last_update": "2026-06-28T13:13:04.795933+00:00",
+  "last_update": "2026-06-28T13:29:11.588948+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 918,
     "total_media": 1176,
     "total_files": 1176,
-    "total_links": 271,
+    "total_links": 272,
     "files_by_type": {
-      "image": 1115,
+      "image": 1116,
       "file": 5,
-      "video": 54,
+      "video": 53,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1176,
     "existing_media_files": 1175,
-    "total_size_mb": 273.03,
-    "last_calculation": "2026-06-28T13:13:04.809695+00:00"
+    "total_size_mb": 269.08,
+    "last_calculation": "2026-06-28T13:29:11.602221+00:00"
   }
 }
