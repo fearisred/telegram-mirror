@@ -8009,6 +8009,31 @@
     ],
     "IranintlTV": [
       {
+        "id": 345458,
+        "text": "عباس عراقچی، وزیر خارجه جمهوری اسلامی در واکنش به نشست امنیتی آمریکا با ۱۲ کشور منطقه، در شبکه اجتماعی ایکس نوشت: «آیا سنتکام برای منطقه ما امنیت آورده یا ناامنی؟ پاسخ روشن است.»\nاو افزود: «نیروهای مسلح قدرتمند ما ثابت کرده‌اند که بیگانگان حتی قادر به حفاظت از خودشان هم نیستند».\nhttps://iranintl.com/202607025624",
+        "date": "2026-07-02T19:15:50+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_345458_0_08579feb.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_345458_1_d2bb0eb8.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202607025624",
+            "type": "external",
+            "display_text": "https://iranintl.com/202607025624"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/345458"
+      },
+      {
         "id": 345457,
         "text": "🎧\nنسخه صوتی دومینو: تدارک نجومی حکومت برای مراسم دفن جلاد دی‌ماه\n@iranintlTV",
         "date": "2026-07-02T19:05:05+00:00",
@@ -10128,31 +10153,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/IranintlTV/345358"
-      },
-      {
-        "id": 345357,
-        "text": "سیامند از هامبورگ: مهم‌ترین درس برای مردم ایران این است که حالا می دانند آزادی واقعی چیست\n«یک ایران صدای شما را می‌شنود»\nدوشنبه تا پنجشنبه ۱۱ شب تهران\nاز تلویزیون ایران اینترنشنال\nتماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:\nhttps://youtu.be/yHZRWJ8mWLc\n@iranintltv",
-        "date": "2026-07-01T23:02:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_345357_0_08579feb.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_345357_1_0bf9121d.mp4"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://youtu.be/yHZRWJ8mWLc",
-            "type": "youtube",
-            "display_text": "https://youtu.be/yHZRWJ8mWLc"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/345357"
       }
     ],
     "tavaanatech": [
@@ -16276,7 +16276,7 @@
       }
     ]
   },
-  "last_update": "2026-07-02T19:10:29.447004+00:00",
+  "last_update": "2026-07-02T19:18:54.542040+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 918,
@@ -16284,15 +16284,15 @@
     "total_files": 1160,
     "total_links": 275,
     "files_by_type": {
-      "image": 1093,
+      "image": 1094,
       "file": 5,
-      "video": 60,
+      "video": 59,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1160,
     "existing_media_files": 1159,
-    "total_size_mb": 243.04,
-    "last_calculation": "2026-07-02T19:10:29.460768+00:00"
+    "total_size_mb": 239.89,
+    "last_calculation": "2026-07-02T19:18:54.552497+00:00"
   }
 }
