@@ -8009,6 +8009,50 @@
     ],
     "IranintlTV": [
       {
+        "id": 347005,
+        "text": "🔻\nپس از بازی آرژانتین برابر مصر، گروهی از کاربران در شبکه‌های اجتماعی اظهاراتی بدون سند درباره مهندسی جام جهانی برای آرژانتینی‌ها از سوی اسرائیل منتشر کردند.\n🔹\nگفت‌وگوی مزدک میرزایی با اشکان صفایی، خبرنگار ایران اینترنشنال، در هت‌تریک\n@iranintltvsport",
+        "date": "2026-07-11T18:54:04+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347005_0_973d1193.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_347005_1_e2a5036b.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/347005"
+      },
+      {
+        "id": 347004,
+        "text": "عزت‌الله ضرغامی، رییس پیشین سازمان صدا و سیما، در یک برنامه تلویزیونی گفت: «تمام وجود ترامپ را ترس فرا گرفته و او در استیصال کامل به‌سر می‌برد.»\nضرغامی با اشاره به پیام مکتوب مجتبی خامنه‌ای در خصوص خونخواهی پدرش، افزود: «این انتقام به زودی انجام خواهد شد.»\nhttps://iranintl.com/202607112278",
+        "date": "2026-07-11T18:53:35+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_347004_0_973d1193.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_347004_1_c26eb87f.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202607112278",
+            "type": "external",
+            "display_text": "https://iranintl.com/202607112278"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/347004"
+      },
+      {
         "id": 347003,
         "text": "امشب و بامداد فردا، با برگزاری دو دیدار مرحله یک‌چهارم نهایی جام جهانی ۲۰۲۶، تکلیف چهار تیم راه‌یافته به نیمه‌نهایی مشخص می‌شود. انگلیس به مصاف نروژ می‌رود و آرژانتین برابر سوئیس قرار می‌گیرد.\nگزارش علیرضا مدیری، مهران عباسیان و آیدین مقیمی، خبرنگاران ایران‌اینترنشنال\n@iranintltv",
         "date": "2026-07-11T18:41:58+00:00",
@@ -9973,44 +10017,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/346901"
-      },
-      {
-        "id": 346900,
-        "text": "دونالد ترامپ اعلام کرد که جمهوری اسلامی خواستار ادامه مذاکرات با آمریکا شده است. او در تروت سوشال نوشت که واشنگتن با این درخواست موافقت کرده، اما به‌صراحت به تهران اعلام کرده است که آتش‌بس پایان یافته است.\nگزارش سمیرا قرایی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-07-11T05:12:29+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_346900_0_973d1193.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_346900_1_c8f26d5b.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/346900"
-      },
-      {
-        "id": 346899,
-        "text": "سرخط خبرهای شنبه ۲۰ تیر\n@iranintltv",
-        "date": "2026-07-11T04:28:27+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_346899_0_973d1193.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_346899_1_11b0393d.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/346899"
       }
     ],
     "tavaanatech": [
@@ -16134,23 +16140,23 @@
       }
     ]
   },
-  "last_update": "2026-07-11T18:45:27.880929+00:00",
+  "last_update": "2026-07-11T18:56:53.287064+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 918,
     "total_media": 1159,
     "total_files": 1159,
-    "total_links": 252,
+    "total_links": 253,
     "files_by_type": {
-      "image": 1085,
+      "image": 1086,
       "file": 5,
-      "video": 67,
+      "video": 66,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1159,
     "existing_media_files": 1158,
-    "total_size_mb": 293.04,
-    "last_calculation": "2026-07-11T18:45:27.894570+00:00"
+    "total_size_mb": 295.6,
+    "last_calculation": "2026-07-11T18:56:53.301263+00:00"
   }
 }
