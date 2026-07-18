@@ -8009,6 +8009,21 @@
     ],
     "IranintlTV": [
       {
+        "id": 348323,
+        "text": "🎧\nنسخه صوتی تیتراول با نیوشا صارمی: حملات تازه آمریکا به جنوب ایران و پرواز سوخت‌رسان‌های جدید به اسرائیل\n@iranintlTV",
+        "date": "2026-07-18T18:55:21+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_348323_0_c94db5b1.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/348323"
+      },
+      {
         "id": 348322,
         "text": "مسعود پزشکیان، رییس دولت جمهوری اسلامی، شنبه ۲۷ تیر پیام منتشر شده از سوی مجتبی خامنه‌ای را «حکیمانه و وحدت‌آفرین» خواند و در شبکه اجتماعی ایکس نوشت: «پیام رهبر جمهوری اسلامی و حمایت او از سران سه قوه و مسئولان کشور مهم‌ترین پشتوانه و سرمایه در جهت صیانت از منافع ملی و سربلندی ایران اسلامی است.»\nپزشکیان افزود: «پایبندی به لوازم اتحاد مقدس و پرهیز از اختلاف و تفرقه رمز پیروزی در این بزنگاه تاریخی است.»\nhttps://iranintl.com/202607180603",
         "date": "2026-07-18T18:40:51+00:00",
@@ -10032,25 +10047,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/IranintlTV/348223"
-      },
-      {
-        "id": 348222,
-        "text": "یک شهروند با ارسال ویدیویی به ایران اینترنشنال، صف طولانی خودروها برای دریافت بنزین از جایگاه سوخت «انجم شعاع» شهر کرمان در روز  ۲۷ تیرماه را نشان داد.",
-        "date": "2026-07-18T08:31:33+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_348222_0_676ac2c3.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_348222_1_58ced791.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/348222"
       }
     ],
     "tavaanatech": [
@@ -16174,23 +16170,23 @@
       }
     ]
   },
-  "last_update": "2026-07-18T18:47:40.264416+00:00",
+  "last_update": "2026-07-18T18:59:09.237354+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 918,
-    "total_media": 1160,
-    "total_files": 1160,
+    "total_media": 1159,
+    "total_files": 1159,
     "total_links": 258,
     "files_by_type": {
       "image": 1090,
       "file": 5,
-      "video": 63,
+      "video": 62,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1160,
-    "existing_media_files": 1159,
-    "total_size_mb": 341.93,
-    "last_calculation": "2026-07-18T18:47:40.278288+00:00"
+    "referenced_files": 1159,
+    "existing_media_files": 1158,
+    "total_size_mb": 327.22,
+    "last_calculation": "2026-07-18T18:59:09.251052+00:00"
   }
 }
