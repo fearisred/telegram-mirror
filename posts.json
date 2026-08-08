@@ -8009,6 +8009,31 @@
     ],
     "IranintlTV": [
       {
+        "id": 351678,
+        "text": "اکرم الکعبی، دبیرکل جنبش النجباء عراق، از گروه‌های نزدیک به سپاه و تشکیل دهنده حشد الشعبی، گزینه دیپلماسی با عربستان سعودی را «بی‌فایده» خواند. او ریاض را به «توطئه» علیه عراق متهم کرد و خواستار «پاسخ نظامی مناسب» به عربستان سعودی شد.\nhttps://iranintl.com/202608086013",
+        "date": "2026-08-08T21:22:12+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_351678_0_9888e163.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_351678_1_84afa28e.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608086013",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608086013"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/351678"
+      },
+      {
         "id": 351677,
         "text": "🔻\nتیم فوتبال استاندارد لیژ در نخستین مسابقه لیگ حرفه‌ای بلژیک، با تساوی ۲ - ۲ مقابل سرکل بروخه متوقف شد؛ دنیس اکرت، دو گل لیژ را به ثمر رساند.\n🔹\nدرخشش دنیس اکرت در نخستین بازی استاندارد لیژ درحالی است که امیر قلعه‌نویی، سرمربی تیم فوتبال ایران به او در جام جهانی ۲۰۲۶ بازی نداد.\n@iranintltvsport",
         "date": "2026-08-08T21:01:06+00:00",
@@ -10040,25 +10065,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/351575"
-      },
-      {
-        "id": 351574,
-        "text": "هوشنگ حسن‌یاری، کارشناس خاورمیانه و امور نظامی، با اشاره به امضای پیمان دفاعی سه‌جانبه عربستان سعودی، ترکیه و پاکستان، به ایران‌اینترنشنال گفت توافق مکه، محاصره امنیتی جمهوری اسلامی را کامل‌تر کرده و فشار بیشتری بر حکومت ایران وارد می‌کند.\n@iranintltv",
-        "date": "2026-08-08T06:28:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_351574_0_d8a97303.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_351574_1_53fdb2a0.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/351574"
       }
     ],
     "tavaanatech": [
@@ -16182,23 +16188,23 @@
       }
     ]
   },
-  "last_update": "2026-08-08T21:02:23.217205+00:00",
+  "last_update": "2026-08-08T21:33:58.032312+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 918,
     "total_media": 1159,
     "total_files": 1159,
-    "total_links": 260,
+    "total_links": 261,
     "files_by_type": {
-      "image": 1085,
+      "image": 1086,
       "file": 5,
-      "video": 67,
+      "video": 66,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1159,
     "existing_media_files": 1158,
-    "total_size_mb": 289.26,
-    "last_calculation": "2026-08-08T21:02:23.233559+00:00"
+    "total_size_mb": 285.12,
+    "last_calculation": "2026-08-08T21:33:58.046281+00:00"
   }
 }
