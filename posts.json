@@ -8009,6 +8009,21 @@
     ],
     "IranintlTV": [
       {
+        "id": 352613,
+        "text": "سام اصغری، بازیگر و مدل، در این گفت‌وگوی ویژه با ایران‌اینترنشال از فراز و نشیب زندگی شخصی و حرفه‌ای اش می‌گوید. لازم به ذکر است که این گفت‌وگو پیش از اعتراضات دی‌ماه و کشتار خونین معترضان در ۱۸ و ۱۹ دی‌ماه انجام شده است. نسخه کامل این گفت‌وگو را در یوتیوب…",
+        "date": "2026-08-14T23:27:39+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_352613_0_7d4cc388.jpg"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/352613"
+      },
+      {
         "id": 352612,
         "text": "مسعود پزشکیان در دیدار هفته گذشته با دبیران احزاب سیاسی، از کاهش درآمدهای نفتی، افزایش هزینه واردات و خسارت واردشده به کارخانه‌ها خبر داد و گفت: نمی‌توانیم نفت بفروشیم. ویدیوهای این نشست به‌تازگی منتشر شد.\n@iranintltv",
         "date": "2026-08-14T23:03:55+00:00",
@@ -10044,25 +10059,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/352512"
-      },
-      {
-        "id": 352511,
-        "text": "سرخط خبرهای جمعه ۲۳ مرداد\n@iranintltv",
-        "date": "2026-08-14T09:39:05+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_352511_0_fd5357d7.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_352511_1_e6d2f1fc.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/352511"
       }
     ],
     "tavaanatech": [
@@ -16186,23 +16182,23 @@
       }
     ]
   },
-  "last_update": "2026-08-14T23:20:58.276069+00:00",
+  "last_update": "2026-08-14T23:51:29.589739+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 918,
-    "total_media": 1160,
-    "total_files": 1160,
+    "total_media": 1159,
+    "total_files": 1159,
     "total_links": 260,
     "files_by_type": {
       "image": 1090,
       "file": 5,
-      "video": 63,
+      "video": 62,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1160,
-    "existing_media_files": 1159,
-    "total_size_mb": 247.69,
-    "last_calculation": "2026-08-14T23:20:58.287012+00:00"
+    "referenced_files": 1159,
+    "existing_media_files": 1158,
+    "total_size_mb": 246.8,
+    "last_calculation": "2026-08-14T23:51:29.603811+00:00"
   }
 }
