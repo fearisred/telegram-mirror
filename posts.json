@@ -8009,6 +8009,31 @@
     ],
     "IranintlTV": [
       {
+        "id": 353593,
+        "text": "دونالد ترامپ، رییس‌جمهوری آمریکا، پستی از دیوید شون، وکیل آمریکایی، را در تروث سوشال بازنشر کرد که در آن آمده است ترامپ به جمهوری اسلامی «هر فرصت ممکنی» داد تا رفتار خود را تغییر دهد.\nشون در این پست نوشت ترامپ به جمهوری اسلامی فرصت داد از «حمایت از تروریسم جهانی» دست بکشد و به «کشورهای متمدن» بپیوندد.\nاو افزود ترامپ همچنین پیامدهای ادامه این مسیر را برای جمهوری اسلامی روشن کرده است.\nhttps://iranintl.com/202608217535",
+        "date": "2026-08-21T18:28:48+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353593_0_76a8efba.jpg"
+          },
+          {
+            "type": "image",
+            "file": "IranintlTV_353593_1_f3283a7f.jpg"
+          }
+        ],
+        "links": [
+          {
+            "url": "https://iranintl.com/202608217535",
+            "type": "external",
+            "display_text": "https://iranintl.com/202608217535"
+          }
+        ],
+        "has_media": true,
+        "has_links": true,
+        "source": "https://t.me/IranintlTV/353593"
+      },
+      {
         "id": 353592,
         "text": "آیا باید حتی قبل از انتخابات نوامبر در آمریکا منتظر آغاز حملات آمریکا و اسرائیل باشیم؟\n@iranintltv",
         "date": "2026-08-21T18:14:24+00:00",
@@ -10102,25 +10127,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/353486"
-      },
-      {
-        "id": 353485,
-        "text": "احتمال گسترش تهدیدهای جمهوری اسلامی به اروپا به یکی از محورهای بحث و ارزیابی در این قاره تبدیل شده است. در همین حال، ناتو بر آمادگی خود برای مقابله با هرگونه تهدید تاکید کرده و هم‌زمان برخی کارشناسان درباره محدودیت‌های دفاعی شماری از کشورهای اروپایی هشدار داده‌اند.\nگزارش صدف باغبانی، خبرنگار ایران‌اینترنشنال\n@iranintltv",
-        "date": "2026-08-20T23:32:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_353485_0_45f8f751.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_353485_1_090d8aa5.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/353485"
       }
     ],
     "tavaanatech": [
@@ -16244,23 +16250,23 @@
       }
     ]
   },
-  "last_update": "2026-08-21T18:24:13.224298+00:00",
+  "last_update": "2026-08-21T18:31:28.362840+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 918,
     "total_media": 1167,
     "total_files": 1167,
-    "total_links": 265,
+    "total_links": 266,
     "files_by_type": {
-      "image": 1101,
+      "image": 1102,
       "file": 5,
-      "video": 59,
+      "video": 58,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1167,
     "existing_media_files": 1166,
-    "total_size_mb": 253.16,
-    "last_calculation": "2026-08-21T18:24:13.238515+00:00"
+    "total_size_mb": 252.3,
+    "last_calculation": "2026-08-21T18:31:28.369850+00:00"
   }
 }
