@@ -8009,6 +8009,25 @@
     ],
     "IranintlTV": [
       {
+        "id": 353884,
+        "text": "🔻\nتیم فوتبال استقلال در هفته سوم لیگ برتر، سپاهان را در استادیوم قلعه حسن‌خان با نتیجه دو یر صفر شکست داد و صدرنشین لیگ شد.\n🔹\nگفتگوی مزدک میرزایی با محمد تقوی و رها پوربخش در برنامه هت‌تریک\n@iranintltvsport",
+        "date": "2026-08-23T20:07:46+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_353884_0_3b66fd4f.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_353884_1_dc1dadb5.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/353884"
+      },
+      {
         "id": 353883,
         "text": "🔻\nخلاصه بازی استقلال - سپاهان با گزارش مزدک میرزایی، ایران اینترنشنال در برنامه هت‌تریک\n@iranintltvsport",
         "date": "2026-08-23T19:48:33+00:00",
@@ -10024,31 +10043,6 @@
         "has_media": true,
         "has_links": true,
         "source": "https://t.me/IranintlTV/353782"
-      },
-      {
-        "id": 353781,
-        "text": "اسماعیل بقائی، سخنگوی وزارت خارجه، از سفر عاصم منیر، فرمانده ارتش پاکستان به تهران، در روز دوشنبه خبر داد.\nبقائی اعلام کرد این سفر در راستای تقویت همکاری‌های دوجانبه و نیز «ادامه مساعی جمیله» پاکستان برای کمک به تقویت صلح و امنیت در منطقه صورت می‌گیرد.\nhttps://iranintl.com/202608234335",
-        "date": "2026-08-23T07:41:06+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_353781_0_127e46ee.jpg"
-          },
-          {
-            "type": "image",
-            "file": "IranintlTV_353781_1_629c5c7d.jpg"
-          }
-        ],
-        "links": [
-          {
-            "url": "https://iranintl.com/202608234335",
-            "type": "external",
-            "display_text": "https://iranintl.com/202608234335"
-          }
-        ],
-        "has_media": true,
-        "has_links": true,
-        "source": "https://t.me/IranintlTV/353781"
       }
     ],
     "tavaanatech": [
@@ -16172,23 +16166,23 @@
       }
     ]
   },
-  "last_update": "2026-08-23T19:49:04.726949+00:00",
+  "last_update": "2026-08-23T20:20:49.653536+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 918,
     "total_media": 1161,
     "total_files": 1161,
-    "total_links": 257,
+    "total_links": 256,
     "files_by_type": {
-      "image": 1087,
+      "image": 1086,
       "file": 5,
-      "video": 67,
+      "video": 68,
       "audio": 1,
       "document": 1
     },
     "referenced_files": 1161,
     "existing_media_files": 1160,
-    "total_size_mb": 308.41,
-    "last_calculation": "2026-08-23T19:49:04.741098+00:00"
+    "total_size_mb": 312.02,
+    "last_calculation": "2026-08-23T20:20:49.667545+00:00"
   }
 }
