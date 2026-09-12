@@ -8009,6 +8009,44 @@
     ],
     "IranintlTV": [
       {
+        "id": 356992,
+        "text": "دونالد ترامپ، رییس‌جمهور آمریکا، شنبه ۱۲ سپتامبر، گفت: «به باور او جنگ با جمهوری اسلامی پس از انتخابات میان‌دوره‌ای آمریکا، در ماه نوامبر پایان خواهد یافت و قیمت نفت پس از پایان درگیری کاهش خواهد یافت.»\nترامپ گفت: «نیروهای حوثی مورد حمایت جمهوری اسلامی در یمن با دولت او تماس گرفته‌اند و گفتند: «نمی‌خواهند آمریکا مستقیماً وارد درگیری شود.»\n@iranintltv",
+        "date": "2026-09-12T14:36:19+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_356992_0_85435155.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_356992_1_e58f5a88.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/356992"
+      },
+      {
+        "id": 356991,
+        "text": "یک شهروند با اشاره به بحران دارو می‌گوید که با وجود داشتن نسخه پزشک برای بیماری سندرم پای بی‌قرار، مجبور است به تهیه متادون رضایت دهد و حتی برای خرید این دارو نیز به او گفته شده به کلینیک ترک اعتیاد برود و ثبت نام کند.",
+        "date": "2026-09-12T14:33:45+00:00",
+        "media": [
+          {
+            "type": "image",
+            "file": "IranintlTV_356991_0_85435155.jpg"
+          },
+          {
+            "type": "video",
+            "file": "IranintlTV_356991_1_be35b0d5.mp4"
+          }
+        ],
+        "links": [],
+        "has_media": true,
+        "has_links": false,
+        "source": "https://t.me/IranintlTV/356991"
+      },
+      {
         "id": 356988,
         "text": "🔻\nباشگاه النصر عربستان سعودی با تصاویری از کریستیانو رونالدو، فوق‌ستاره پرتغالی خود و یک کپشن کنایه‌آمیز به لیونل مسی، از لباس دوم خود برای فصل جدید رونمایی کرد: «دومی؛ برای بزرگ‌ترین تاریخ.»\n@iranintltvsport",
         "date": "2026-09-12T14:26:36+00:00",
@@ -10073,40 +10111,6 @@
         "has_media": true,
         "has_links": false,
         "source": "https://t.me/IranintlTV/356876"
-      },
-      {
-        "id": 356875,
-        "text": "یک شهروند با انتشار ویدیویی در رسانه‌های اجتماعی، صف خودروهای سنگین را در جایگاه اختصاصی پایانه بار چابهار نشان می‌دهد و می‌گوید: «سهمیه ۲۵۰ لیتری بنزین خودمان را به قیمت هشت میلیون تومان به ما می‌فروشند و برای همان هم باید ساعت‌ها در صف بمانیم.»",
-        "date": "2026-09-11T19:00:42+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_356875_0_055fc47e.jpg"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/356875"
-      },
-      {
-        "id": 356874,
-        "text": "۲۴ با فرداد فرحزاد\n@iranintltv",
-        "date": "2026-09-11T18:49:23+00:00",
-        "media": [
-          {
-            "type": "image",
-            "file": "IranintlTV_356874_0_055fc47e.jpg"
-          },
-          {
-            "type": "video",
-            "file": "IranintlTV_356874_1_c50f2c2f.mp4"
-          }
-        ],
-        "links": [],
-        "has_media": true,
-        "has_links": false,
-        "source": "https://t.me/IranintlTV/356874"
       }
     ],
     "tavaanatech": [
@@ -16230,23 +16234,23 @@
       }
     ]
   },
-  "last_update": "2026-09-12T14:29:26.808407+00:00",
+  "last_update": "2026-09-12T14:38:51.921382+00:00",
   "last_cleanup": "2026-05-09T12:42:52.832634",
   "statistics": {
     "total_posts": 918,
-    "total_media": 1159,
-    "total_files": 1159,
+    "total_media": 1160,
+    "total_files": 1160,
     "total_links": 268,
     "files_by_type": {
       "image": 1089,
       "file": 5,
-      "video": 63,
+      "video": 64,
       "audio": 1,
       "document": 1
     },
-    "referenced_files": 1159,
-    "existing_media_files": 1158,
-    "total_size_mb": 303.58,
-    "last_calculation": "2026-09-12T14:29:26.819418+00:00"
+    "referenced_files": 1160,
+    "existing_media_files": 1159,
+    "total_size_mb": 318.27,
+    "last_calculation": "2026-09-12T14:38:51.935460+00:00"
   }
 }
